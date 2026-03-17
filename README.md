@@ -27,6 +27,7 @@ Validation Accuracy: 98.33%.
 Training Time: 5 Epochs.
 
 🛠️ Installation & Usage
+
 Clone the repository:
 Bash
 git clone https://github.com/abishekm09/Satellite-Land-Cover-Classification-System
@@ -34,6 +35,7 @@ git clone https://github.com/abishekm09/Satellite-Land-Cover-Classification-Syst
 Install dependencies:
 Bash
 pip install tensorflow numpy matplotlib requests
+
 Run the Notebook: Open trained_model.ipynb in Jupyter or Google Colab to execute the training and inference pipeline.
 
 🔮 Inference
